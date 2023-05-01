@@ -1,0 +1,75 @@
+:root{
+    --background-color:#F6623E;
+    --main-color:#000000;
+    --second-clor:#1A1A1A;
+}
+
+body{
+    font-family: Jost;
+    font-style: normal;
+    color: var(--main-color)
+}
+
+a{
+    text-decoration: none;
+    color: var(--main-color);
+}
+
+ul{
+    list-style: none;
+}
+
+.link{
+font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 56px;
+}
+
+.main{
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+}
+
+.text-1{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.text-1.1{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.text-2{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.no-jost{
+    font-family: Work Sans
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.text-3{
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+}
+
+.text-4{
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+}
